@@ -72,7 +72,7 @@ class BlockHeader(object):
 
    def __repr__(self):
       return __str__(self)
-      
+
 class Block(object):
    """A block to be parsed from file"""
    def __init__(self):
@@ -96,6 +96,10 @@ class Block(object):
          self.blockheader = BlockHeader()
          self.blockheader.parse(bf)
          print 'Block header:\t%s' % self.blockheader
+         
+         self.transaction_cnt = read_varint(bf)
+         print 'Transactions: \t%d' % self.transaction_cnt
+
 
 
 
