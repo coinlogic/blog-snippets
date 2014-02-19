@@ -30,6 +30,10 @@ class Block(object):
          self.magic_no = read_uint4(bf)
          print 'magic_no:\t0x%8x' % self.magic_no
 
+         self.blocksize = read_uint4(bf)
+         print 'size:    \t%u bytes' % self.blocksize
+
+
 
 def parseBlockFile(blockfile):
    block = Block()
