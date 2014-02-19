@@ -1,5 +1,21 @@
+class Block(object):
+   """A block to be parsed from file"""
+   def __init__(self):
+     self.magic_no = -1
+     self.blocksize = 0
+     self.blockheader = None
+     transaction_cnt = 0
+     transactions = None
+
+     blockfile = None
+
+   def parseBlockFile(self, blockfile):
+      print 'Parsing block file: %s' % blockfile
+
+
 def parseBlockFile(blockfile):
-   print 'Parsing block file: %s' % blockfile
+   block = Block()
+   block.parseBlockFile(blockfile)
 
 if __name__ == "__main__":
    import sys
