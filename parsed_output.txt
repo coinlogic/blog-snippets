@@ -39,6 +39,7 @@ Prev Tx out index: 0
 Txin Script Len: 139 
 scriptSig: 4830452209c717115be2f56b37e9a77d9ae231a59e350f5aec842926afad4ad99f0bd412210ee3c387ecccc19cfee3b8e2a51cfcfb80262ff46141bc39f7679f8e3378795b1414f482984cae3de9215c426dfd91175f5518fca543dbe9be3399e35a17de8a3bb55354b2a41b22243793a50b211125c3cc23ec390bdcd9ee762c752857784e 
 Sequence: ffffffff
+..............
 PrevHash: 9f164d70ceaebc99968a6eaed51debd86f36236f6f8d2e33c8e96da583486f8 
 Prev Tx out index: 0 
 Txin Script Len: 139 
@@ -49,6 +50,7 @@ Outputs count: 2
 Value (satoshis): 4593400000 (45.934000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914d1fd457efb95ce1cf06ad5aafd13cd2de8aa7d1788ac
+..............
 Value (satoshis): 35040600000 (350.406000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914becafadbb843494d8cb31f204bf7abc4fa94ac488ac
@@ -65,31 +67,37 @@ Prev Tx out index: 1
 Txin Script Len: 140 
 scriptSig: 4930462210ec4328f0d5b5a0de86f86dfb18b0867df39120e0a1ed14a141c150ed32c272e522109998a7a75b8e5a317bcebb5e566203db19cd5390547ada2eb33123759bbef41414d9a41cf4a24694394f808b9bf3ebb49c2c1b1ea8b616fc28f7d51cbbf87f4a9bec1feb22af48798528c81e21a9ccc2cbe5caebe10e0b247353ed7173b5 
 Sequence: ffffffff
+..............
 PrevHash: 934127584a8a789bfdbb85fedf6af6f0af6922573817b7b398d66733f9fe54a 
 Prev Tx out index: 1 
 Txin Script Len: 140 
 scriptSig: 4930462210fb60846b6dae01726cc8653d050a4f5b1856c2173afb9bcfae7494ad8f2d82210cbe0673274b0c811bc8419abc2811dfea4338ebd63b151a92a6bdcba598c4714149eb7a957d876bb2bb6eb86835658c4aa42231f2c7e1c7432b315f9de83fa5f6f13e7214db4690ecc0db39daa28598f98457c15356fedfa23b596a1ec6f6a1 
 Sequence: ffffffff
+..............
 PrevHash: 8f45c21ff8d22d7cf906e1448bf4ff1036fc3eba6ff56599d499345f559f0 
 Prev Tx out index: 1 
 Txin Script Len: 139 
 scriptSig: 483045220136faceaea8c934e7af3b7d9be530a2be73552c65595e2e82c7a7ffce36dbf2210e69f2430e4d8ef6876846f9d697a5866b5ba168f8cd4b590f919d6801e61d76e1414ca369777e1acab11f408d7f2ccb8d7a3da42b1de986283412dc5653dd2225296b1b5d530d57f6b4c97f278b6f6f5b77902fba0fa8c5167333b5eb1415f4 
 Sequence: ffffffff
+..............
 PrevHash: d7a49d8f587563b1e2ee1e6b19df14b144a86cd98ca1273feb5e7512ac7f24 
 Prev Tx out index: 1 
 Txin Script Len: 139 
 scriptSig: 48304522026568e7f727e9753a443cd50fd43cebc59bd8c6549c3f31d714ef6202fe1492210cfa065ee4519e555a2ca1fd5c5dc24186d784c83d51dba6fda5585106ed49714141973dbee3dd0c44e239d5a7a5b0f422dc4d348682b79ce99bc35e3865054c4ea50b6324d3aac5255ea971d9ac781513d177f887e61dcd701ed5e5de70f586 
 Sequence: ffffffff
+..............
 PrevHash: 85e4942e101880825c1ea04b6b62cccb5b33d3f593c462ec88268dc587227261 
 Prev Tx out index: 1 
 Txin Script Len: 140 
 scriptSig: 4930462210c6fc3f7996f711b089b392fe7155b2b7ab2354e38872d5fe8a28db4214e9b68122108aa6e77f17744f21d9338404ffa5c25273f9ebad686fe5befece43d97b90a11414c53e1d9ad570a2daf1b59d0869e249b8241e45a8bdec4b6eb83542c2b1f5338012e08df76ed111a490224bc792be33ac9f81256b4e1d48563bd653fab 
 Sequence: ffffffff
+..............
 PrevHash: d232bc9b732804f765e16a98b7c8abbf15b88f94f80e070fb82301ec757f717 
 Prev Tx out index: 1 
 Txin Script Len: 138 
 scriptSig: 4730442206a31b043ad52d792d55b4df684cba51a9846ddc1afe2a5fefb79173325cde152205b3c5bbd7737694bae9c2ad3f3b3c9d52963898c16dc9c95f56f769e4728cba1414bd5fd5e19d303c26ec0180845efdd2a8fd47565caf29dfea513cdcea9871c49b026674c532d9f457ff9d7da9f127afc0d284def237dc156b1b62a866 
 Sequence: ffffffff
+..............
 PrevHash: 6a59eedc517d88b1132d4161b7fa1e34d91bd860cee0e4442912d8dc986a6b 
 Prev Tx out index: 1 
 Txin Script Len: 139 
@@ -100,6 +108,7 @@ Outputs count: 2
 Value (satoshis): 1000000 (0.010000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914fb89e031f460ab4b65f731b8239bcee579657df88ac
+..............
 Value (satoshis): 30000000000 (300.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914c4776c8b9dd578cc5ba3ff17fff14d32d1a1b1ea88ac
@@ -116,31 +125,37 @@ Prev Tx out index: 0
 Txin Script Len: 139 
 scriptSig: 48304522109f19d0cf4207e51a8117a4dcd3f3c62a5697b73feb4c29687f58ce1b76bd63220316ce348829e45e3d3d87a8b13bee7dfbc702789c8609583c6f6b3ed803b9214147c3bbdb494a777cf9371c3bf716d493a252ccada3c54a6a567b6c1b264daaa14dcf3fe1885650f3f1f4e57a39ed76b71cb2d2a69d55a93a60f2ebcf4ed29859 
 Sequence: ffffffff
+..............
 PrevHash: a82816651d85583ff0d09e41f296c71a65b3383d06037d3616e706682586c7 
 Prev Tx out index: 1 
 Txin Script Len: 139 
 scriptSig: 483045220819e5c864c9c1d97f8218136ae647fe62c29e7579f357bf6f79e2be5d6362210d427e128bf2b49f0b1b176a95cd53635b160ebe9ef63f56a57f99ae7476cce51414b64e8e02d505c3b4c636b6abdddc03a7b8c21ad99119fcf5f2be547b82e892ffc8a6bc253dd818791cbcb465cd234c216067bb25c03fd5d7c7fcbf5738989 
 Sequence: ffffffff
+..............
 PrevHash: d7f155c19a0526d605ed41dce957ec4bfdf7b678c904639446431551b43b82 
 Prev Tx out index: 1 
 Txin Script Len: 138 
 scriptSig: 473044220793552df693a2d31ea74cadbbff33322523111bdf2764bd48e624f89cac3f64220e8b9f1699bb9cad10a783f3e0155bab8903513cf69b1941fadddd6e99d0c7141476e4e6e4ff8557e9c0c8f35aacc638b17540bf187ca1f648e9cb87a9d695ce86ccd51e079d5f54bf1f86f949f6f503bbd7dd1d391391dc24079965a8d4 
 Sequence: ffffffff
+..............
 PrevHash: 15374da19d643b333515fc9dc3edbdc38c20b9e050dcadba6251b344a6379bee 
 Prev Tx out index: 1 
 Txin Script Len: 140 
 scriptSig: 4930462210f79cf3887037f6da7613f71ac5b5075ca12525674d222f359352da41252bb62210f01692e8567d6fe5ddc95d2d236b3c43f7f3999e17b2087fac3f1bfc5aa7c14142a9dd5fd40b849b2a78f70d8cd4a8d6ac6d851545c71f7b4206523157bd6b69732b1c24961428777bd554c263e9a9b6e2bb2e46eb5d61791d323a464bf9b8f 
 Sequence: ffffffff
+..............
 PrevHash: 519d2788015de939fb620f03e93228782b7f47ceb69841ee412c0c04b9a8bc1 
 Prev Tx out index: 1 
 Txin Script Len: 139 
 scriptSig: 4830452207b1aa9b09e79d1ae6636e53f58cd3f17ec46e893710fff5eb0f8f95be2c3532210921640588fa4cf391cf29dc4793e6ab63318b652a4e22472454a6a7eb51c81141425687e3147c4e3536be58f75d6d4c5fc867fc947b2a1d8667f03ff028dde924d476c2bc42b184bd81225d6cb099988b65135edf2e8cc1ae1dade4d43064 
 Sequence: ffffffff
+..............
 PrevHash: 12d4db334d394d423327ce32987619dccfc675ae4bbdfe5bed821dd2dec477 
 Prev Tx out index: 1 
 Txin Script Len: 138 
 scriptSig: 4730442204367abf2dafdad43eea088c3f95c493b8450b010eb179d662a9f3e5d157db42206cf7cbceb35cb784a0f8c378b183f32cf7c7b029d9369a6febfb7edf4f173514143776e9f030fbd33174921d6e4fa25cf8322603e75d7cc97ebcd153b453caad4b61edc9cf58344a4c869c6b064a18be62b3bf63b9ac0e67f7e462cf990e3854b 
 Sequence: ffffffff
+..............
 PrevHash: 18d643d6bcf2d95bb2104f5e323c459368fd8b44f954b413bec85bfd9363 
 Prev Tx out index: 1 
 Txin Script Len: 140 
@@ -151,6 +166,7 @@ Outputs count: 2
 Value (satoshis): 1000000 (0.010000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91418087fa36ef1f649c6abcf568b77a5434512f4a88ac
+..............
 Value (satoshis): 30000000000 (300.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914d896ed429482e3228fdc25e4797cac3a56a799d88ac
@@ -172,6 +188,7 @@ Outputs count: 2
 Value (satoshis): 3132262400000 (31322.624000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9144e2885faace2b5b9bf8262569f77eb5fa638b588ac
+..............
 Value (satoshis): 4635000000 (46.350000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914e22a8e2343ef2c27983d675f47e854d52a60331488ac
@@ -206,51 +223,61 @@ Prev Tx out index: 1
 Txin Script Len: 140 
 scriptSig: 4930462210eafb53b218aab7df029db7e98287f73faecc678e523d18728af7e39c73be2210f1dc42305c241c6fdd8b298a4cd1ea17539f8c73e58fddd06daa5b8bbef0f7141413130f3efbe8973161ae6588b43259ecef2e78161304c616ca3e263efd9f4d0e6d07cbc114834e1a23982e11caf7edeeda3db53847dab44fe6112fedf2 
 Sequence: ffffffff
+..............
 PrevHash: 20d337f6e80f6cbfc4b5ec7463ee5cdbf1d6304b7b9577cf4e2a4148ca2825 
 Prev Tx out index: 1 
 Txin Script Len: 139 
 scriptSig: 48304522014db39881b8e9b3d61a0be5e45f8ee213d15f6ebfb103bab8d8fb2257c68b2210de1a3e2f3a767840358a4e3fe84030938e7c493be38169e71410f94b3a30f13c14145d2d47e2342043802448f401123373145d43f82b2ac556da224e5a36373cae99e5b084a6ea6b82a2ed2276aba1b51cfa8166211f4fe3fce26afc62c91b7b 
 Sequence: ffffffff
+..............
 PrevHash: b834221e70e187b0ee8a2367f98d4232af649bee141592be1fe931a755bf128 
 Prev Tx out index: 1 
 Txin Script Len: 139 
 scriptSig: 483045220409244e4d66527b173e9c8a67c8f708ee71c6cf34dcbd3f85d2ac029ab62b9f2210c42b6906ae850bac079b83939ded28c86b9cbe27197555ab42dea5b39ac2a414144a8f2536a9d751b6444ce794b89ea353e440bf4aa2e19142c964702c3d4a54691332d777846a95bd2031f68e4832fb4ad63811cc5ae26e4b4aa6d35c9f1 
 Sequence: ffffffff
+..............
 PrevHash: b31ee4be34ef93c406e4bbb336e75dcacec67ba3636bd7fe95a4a59ff2d217 
 Prev Tx out index: 1 
 Txin Script Len: 139 
 scriptSig: 48304522033e6b9e8271e249fde8e2fde22528d78daeb543dedaf38b64f87844ad218427f2210c266ab8b532ce42494476963ae396cf5a97beec4b8c1cdf7624afcc1db2138b141413130f3efbe8973161ae6588b43259ecef2e78161304c616ca3e263efd9f4d0e6d07cbc114834e1a23982e11caf7edeeda3db53847dab44fe6112fedf2 
 Sequence: ffffffff
+..............
 PrevHash: 363f9f6bcaf5682ffddc84a837aeb98e2b32c2b5d0d6bb2e673764a2a193 
 Prev Tx out index: 1 
 Txin Script Len: 138 
 scriptSig: 4730442205d5e8644d8247c856ad4b01477166da6ccbb5620eefa31d0b1cdf95c5a2a2201ea3c9c894c74416724ac5adce315a649980cefef2cd6a41f58e522c6a4214145d2d47e2342043802448f401123373145d43f82b2ac556da224e5a36373cae99e5b084a6ea6b82a2ed2276aba1b51cfa8166211f4fe3fce26afc62c91b7b 
 Sequence: ffffffff
+..............
 PrevHash: 99166f9259f22965fbd5bd17d5a9fc5bdcb996863dbf7d43a2cd376ea97a0 
 Prev Tx out index: 1 
 Txin Script Len: 139 
 scriptSig: 4830452208df7763fa8746c8b5157d6d64a24be41a7fd71ff0d2afde728f8f224171a5492210ddc1acdb129918c8c965044fc32b8475d6498774114f60d09b122470228214145d2d47e2342043802448f401123373145d43f82b2ac556da224e5a36373cae99e5b084a6ea6b82a2ed2276aba1b51cfa8166211f4fe3fce26afc62c91b7b 
 Sequence: ffffffff
+..............
 PrevHash: 32ad4e147348f1637067d9f2b11397939caff935c539e4d3d3388175e47fdd 
 Prev Tx out index: 1 
 Txin Script Len: 140 
 scriptSig: 4930462210ed30418773aadaf846a7a59a2552fc21bb35e85179b678582d684fa359f6f6a2210a549a4c7f611afc1442bdc6e3fe214a5b3cfe0388b3f4968b08490e65345bff714144fe017bf57189a9b3fca9c01117aa45da675afa469253e4f52a932d3ed52b8f920e54199c3efcd2843f5c516b772b1e98eb49e639ffa4210bee04c8c40 
 Sequence: ffffffff
+..............
 PrevHash: 90addaf7ed1f84f63fd6eee827825823f071308f263ebbaed86a61df3bc8add 
 Prev Tx out index: 1 
 Txin Script Len: 138 
 scriptSig: 473044220221183acdd6895e41563b25e3ac52216328dd0465b76a310cbf6ea485910fbae220ad037780404e26bee27f1a447ac2e8910715562635bda11d733058b4d47e141413130f3efbe8973161ae6588b43259ecef2e78161304c616ca3e263efd9f4d0e6d07cbc114834e1a23982e11caf7edeeda3db53847dab44fe6112fedf2 
 Sequence: ffffffff
+..............
 PrevHash: 46ea3174e4c54cd2bddf6ac172e1e91443d6daf78569c74fd485fe7abe1 
 Prev Tx out index: 1 
 Txin Script Len: 139 
 scriptSig: 48304522031b7e1ba29fb41f7ec56ffa5522b589e4e89bcb6ae9d6da55c4d752fca942210e5588c3de92817a93695466e6f461bab738c5e3181b6d8755b6157396eaa014145d2d47e2342043802448f401123373145d43f82b2ac556da224e5a36373cae99e5b084a6ea6b82a2ed2276aba1b51cfa8166211f4fe3fce26afc62c91b7b 
 Sequence: ffffffff
+..............
 PrevHash: f4631e3999d73b995775b28af46cd0e2491ed9698c8e4d0fef98fcaaec 
 Prev Tx out index: 1 
 Txin Script Len: 139 
 scriptSig: 48304522067bcaf3dad311899ce978298ea7ee9e3ecb2833b18fd522444a488ced62bda22109bcbb0a36caa12a471b65117f3dd95409dbb7567e2f22a805c3560b350d57d14145d2d47e2342043802448f401123373145d43f82b2ac556da224e5a36373cae99e5b084a6ea6b82a2ed2276aba1b51cfa8166211f4fe3fce26afc62c91b7b 
 Sequence: ffffffff
+..............
 PrevHash: b9c14eded6b4e87c18ff9ad9958e1827c1c89322645faf88e86d3fbb7dfd 
 Prev Tx out index: 1 
 Txin Script Len: 140 
@@ -261,6 +288,7 @@ Outputs count: 2
 Value (satoshis): 1003921 (0.010039 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9146d8c5657a484e62c2a2f57dda8d0879bf4c87ab488ac
+..............
 Value (satoshis): 1750000000 (17.500000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914e29ab1d0fef410e148c57d486f20e7fcc1b7b85d88ac
@@ -295,11 +323,13 @@ Prev Tx out index: 322
 Txin Script Len: 140 
 scriptSig: 493046221092554c47fd13c85fec2445cde156adb39df5d3f42a7fcac52def9b62cba6b8772210f2c92f81e5174db624712b886b3d29bc632fdbb141313f516a3635df7628c71414d2f58ba2551fbb8ec26a3329bbeea2f19478159f8c22b31f15e7e8efc3e22411c27a9cf15414ef0a067709a35dc8e5206553c57b45622d44a3eddfe 
 Sequence: ffffffff
+..............
 PrevHash: 5854652f7cd49641fee4c314a7735bf9b6c2b09938e16b6050a18ce58a8e6c 
 Prev Tx out index: 1 
 Txin Script Len: 139 
 scriptSig: 4830452201b18e06ac48a46173e2bb839d6b7da3e7738b9d8def8743f12aa8db4af8b3dfd2210f229215f9971dc3129c6a2a806bd2a3abccec33b45ae55a7ae4888f0c3586414148c34c240e261a24281c09870cdbf47ce7b607df824cd2f91eb175b4e825fce6f9038b13608ce7954ca75e202bcba364a2cb35c478c043e048e02547fed3a9 
 Sequence: ffffffff
+..............
 PrevHash: eff23196c497872bb97b9463231024b66815a684f9fc4e6fb5edd24a8bbae0 
 Prev Tx out index: 1 
 Txin Script Len: 139 
@@ -310,6 +340,7 @@ Outputs count: 2
 Value (satoshis): 41191573 (0.411916 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9142c62b53734d49dee9bba74ab23779da5e490cb88ac
+..............
 Value (satoshis): 1000000000 (10.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914991c8e3bbfb8b648c954f1722427837e5427f988ac
@@ -331,6 +362,7 @@ Outputs count: 2
 Value (satoshis): 445400000 (4.454000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914793c5fd51013be99a8b2dd2858e4a662a1bc08988ac
+..............
 Value (satoshis): 239600000 (2.396000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9147431baefe8b81f5d249c944fca6f2988f813b8488ac
@@ -370,6 +402,7 @@ Outputs count: 2
 Value (satoshis): 6148296016 (61.482960 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914861acf759f1c2485db3b42b3bc6e326b7a91df288ac
+..............
 Value (satoshis): 3935112 (0.039351 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914c4dfba12466b6b5a7f35977f9b8e38a697ea9188ac
@@ -391,6 +424,7 @@ Outputs count: 2
 Value (satoshis): 4871447957 (48.714480 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914b720e03d10b4d1893f1d9a5d9869e5d9d0a93a4088ac
+..............
 Value (satoshis): 402647972 (4.026480 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91415a35ff5543889fb35a945aa63e530cd669cb9cf88ac
@@ -430,6 +464,7 @@ Outputs count: 2
 Value (satoshis): 4707044337 (47.070443 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9143b1d54ff564928403cea3d452f246d33a5426988ac
+..............
 Value (satoshis): 5927390 (0.059274 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91483d3c5be252f14324f36a2b2f334cf083c4462788ac
@@ -451,6 +486,7 @@ Outputs count: 2
 Value (satoshis): 4247381961 (42.473820 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914d4532d81c5795f327dee561ac34c9f6f898dd9e88ac
+..............
 Value (satoshis): 33878246 (0.338782 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914ee52d739ba8a54cc4cdd35a556488d57ea9cacc88ac
@@ -472,6 +508,7 @@ Outputs count: 2
 Value (satoshis): 4078284084 (40.782841 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91442b7584896316c74fbe0a1dd8467a1aad3d4d2f988ac
+..............
 Value (satoshis): 108908387 (1.089084 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914e527fbfeb3b0572076d6775de70c1fc6987769f88ac
@@ -493,6 +530,7 @@ Outputs count: 2
 Value (satoshis): 16064373 (0.160644 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9144099eb555a76e362d465455fedf9b459d763fa88ac
+..............
 Value (satoshis): 500000000 (5.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914e72c2579486cbb38caa327768a8514192d1cbee88ac
@@ -514,6 +552,7 @@ Outputs count: 2
 Value (satoshis): 3208578071 (32.085781 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9147dd79bc62b1b67b3b411ffd7f1b5ab9214dee4188ac
+..............
 Value (satoshis): 64975429 (0.649754 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914efc9f16976d52e1b616571414589f2d3d86d5af88ac
@@ -535,6 +574,7 @@ Outputs count: 2
 Value (satoshis): 28099705066 (280.997051 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914178318882d58f736a987f711b7b03a764df4c4a88ac
+..............
 Value (satoshis): 307000000 (3.070000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9144cd9f55394ed609b92c18cfe752f8b2c3a3f915788ac
@@ -556,6 +596,7 @@ Outputs count: 2
 Value (satoshis): 24772648544 (247.726485 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9149d119cad3489111574116ab4d8449c8f54df9ade88ac
+..............
 Value (satoshis): 130000000 (1.300000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9145da0e0553c4948e8b0e4a3bf53aa64ba53ad776388ac
@@ -613,6 +654,7 @@ Outputs count: 2
 Value (satoshis): 9390000 (0.093900 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914dc59586b425051c349482e5682e1c682bab07d88ac
+..............
 Value (satoshis): 1790610000 (17.906100 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914798a13b51a26efdee19bb53844243cf5f87a88ac
@@ -629,11 +671,13 @@ Prev Tx out index: 1
 Txin Script Len: 140 
 scriptSig: 49304622108e90d932bfef23a27b339813efc9f0ac7622a814d5483e8b6da912f6e6c7b22109fa52d2c5525175a6a10d1abc83e6cbf7afc3a3f9eec669a8f65062f771101d1414b3ba466e274b76386a639d6b9366b244ca71bf5de2416d5c85f180b93d3a94bd39aa2488edf2de930b6c9de7c8649c463829fe9579499971a71f2cdf72385 
 Sequence: ffffffff
+..............
 PrevHash: 02f8ccac0bb5835d88c4343833db04deca68c388c7de1574454864214b439 
 Prev Tx out index: 1 
 Txin Script Len: 140 
 scriptSig: 4930462210dbb422d0c5b14f2cf2f3d4dd0a17969f1ada1bb4eaf197d9da2add67277ae62210f150c86fa72840b99b3e2a63d21ab511f662dda0ece856c9dfc94b71ddb64914142846e4d91a80ca7ff5d7ed8cf6d913617865764c87ec56ca99aec146a97d7fe02f7ea3cab24a6d76b97e3dffa043fe881bb9e299a64e94bac8c5c1893217 
 Sequence: ffffffff
+..............
 PrevHash: 34f797dc483831b61dcd5deefc5f78959c9261b5cdb870d038551875629ba23d 
 Prev Tx out index: 0 
 Txin Script Len: 140 
@@ -644,6 +688,7 @@ Outputs count: 2
 Value (satoshis): 8000000 (0.080000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9147387111554e843aac39b31828abed84fc98c88ac
+..............
 Value (satoshis): 500000000 (5.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91424515580461ffdd14cf81c0b66c98a0d49895b88ac
@@ -660,6 +705,7 @@ Prev Tx out index: 1
 Txin Script Len: 138 
 scriptSig: 4730442206f56aacc13339c6a5709a85569eac7b0cea4a67cca8d280b7c5a85610b36b22061f2d66d5a8330224bb20a45b2f7f1c92a817149798d9bf3b2a148f05777814145f63c560d53c83297a15a8e4723795ada6af875c7e3cb7f061da24f520d9d83f2fb47e6bd7fd50c45a374b7226d439a4ec23e37316db89fcdcd42fe62710d 
 Sequence: ffffffff
+..............
 PrevHash: 7f1f5dbd20f6fe7a2779b2dba83d698454b36d4759aa968082c7a3d177d4fdbf 
 Prev Tx out index: 0 
 Txin Script Len: 140 
@@ -688,6 +734,7 @@ Outputs count: 2
 Value (satoshis): 5683350000 (56.833500 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914421fbdbe2814e64163ccaf9a86ef3469c3ed1088ac
+..............
 Value (satoshis): 5000000 (0.050000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914831120bd71fa1093d986b3ae662b1dfc55c6537788ac
@@ -709,6 +756,7 @@ Outputs count: 2
 Value (satoshis): 153000000 (1.530000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91469de39188569c2496c7a8edf7a9f16e6da64988ac
+..............
 Value (satoshis): 200000000 (2.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9142fb0f6aebc72a7f2918a229512e1536572a2a7d888ac
@@ -725,11 +773,13 @@ Prev Tx out index: 1
 Txin Script Len: 140 
 scriptSig: 4930462210a22cb2bcd88927b2cdedd8db7b11f3e295d1f663a8ee6748ec4923e22665632210ff2f637a6856f8c72acde4543bdf446bbf70d8344b61bf78de86f79cf45cc691414375f8878f9779dbdd59b5585a614a325cfa36edcc7fd8d6b4a89a510db2d5e91306e80a0a9d888b2ac8d928fdf796d6b18b83353e25a3aa05e09982a8e63a 
 Sequence: ffffffff
+..............
 PrevHash: fb6ecdba997123ba8157b063709c3c9a64fffabed7a5172e9f07435a203e 
 Prev Tx out index: 1 
 Txin Script Len: 138 
 scriptSig: 4730442203c24282c1605d3a973cb1fdde1bd15a8d36ff87bbfba21d1536bb3ebd58562f220572578e714ed2aee9ceaf3168ef864658f2b3b75e14b3e23013962a514c51414375f8878f9779dbdd59b5585a614a325cfa36edcc7fd8d6b4a89a510db2d5e91306e80a0a9d888b2ac8d928fdf796d6b18b83353e25a3aa05e09982a8e63a 
 Sequence: ffffffff
+..............
 PrevHash: f26991ecccceb8658cabb9d0f747984b85fd94fe7de44642767fc952bb64 
 Prev Tx out index: 0 
 Txin Script Len: 140 
@@ -740,6 +790,7 @@ Outputs count: 2
 Value (satoshis): 21000000 (0.210000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9143c1451dc925e231bfdd0d6713f5621eeddd16f4488ac
+..............
 Value (satoshis): 900000000 (9.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914525e8a11e2baab6a3c105c5523302cb59925b9a988ac
@@ -761,6 +812,7 @@ Outputs count: 2
 Value (satoshis): 210950000 (2.109500 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9148d6cb1e25e9c5d8ff57b47ebd4cbac736d23f9788ac
+..............
 Value (satoshis): 9000000 (0.090000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914f61674368962ec50d91acc922750743ff287b18588ac
@@ -777,26 +829,31 @@ Prev Tx out index: 62
 Txin Script Len: 140 
 scriptSig: 4930462210bf4a2786891cca7e837e8672971483127c479befd815727749dc510fcaa5322109e73c8274e328b1d6d85729cbb64c43f1e842faf844b17b86138fea528562cb14148ab520f7455449ca5443f03ff0562e6032b84580e2a3e63dd15d48ba1b9142a2e05b45d83c97fd0bae2c0d1e0a57f11f8e18f3f34afec0b6ca9f430167be3 
 Sequence: ffffffff
+..............
 PrevHash: 56e74381e27489b9a55b73d06e9374c83236fa0b6f8eddcd1e92aed79e632c 
 Prev Tx out index: 12 
 Txin Script Len: 139 
 scriptSig: 48304522108743fc9ea8c1d52ff450c4108ce9a7b32c30dc8b344c6e18e7f09ce6209c53222202b416011e8cccfd6a7dca9ec671af5c160637812584d8e4e7a3da479a76114148ab520f7455449ca5443f03ff0562e6032b84580e2a3e63dd15d48ba1b9142a2e05b45d83c97fd0bae2c0d1e0a57f11f8e18f3f34afec0b6ca9f430167be3 
 Sequence: ffffffff
+..............
 PrevHash: 422f67b9fce5b907f629dd59311deee24972e5ff8ddb6829484289ae03a5c38 
 Prev Tx out index: 65 
 Txin Script Len: 138 
 scriptSig: 473044220678b3366271eaf5db0c2c9b0f9030452a6e6aede7dda5cd7f6ed1e1c0f3022020ac5c5ec4f21632c69bc462b3e7e3801733966e61c891fc6bc79c644181e14148ab520f7455449ca5443f03ff0562e6032b84580e2a3e63dd15d48ba1b9142a2e05b45d83c97fd0bae2c0d1e0a57f11f8e18f3f34afec0b6ca9f430167be3 
 Sequence: ffffffff
+..............
 PrevHash: 9a516c21f4adfca49b1f33586f9f2eb78b3605b5980b86998dfdc7716e6851 
 Prev Tx out index: 0 
 Txin Script Len: 138 
 scriptSig: 4730442201c16ec8f0a16fbcff43b6ff0b660111e1b3c76e587a9a79eea7bd8d86774c2200af81fc6d6ca24088f20d4916f9d421dbe76cd671b6c62b5967108961a3f61414b74b2742b562ce3fea4e9619fa64171530aba2c3335de565a05fae7714d75d66853f28875b419d1c20ee49d2866d46593c8c47668ab40799612dc522150f0b6 
 Sequence: ffffffff
+..............
 PrevHash: 3ba3fe2fcee636688a1fbb0aea369a5ce136ab82db1a8507e7d9182a4f7cd 
 Prev Tx out index: 77 
 Txin Script Len: 138 
 scriptSig: 47304422097ead5044d1b9554e447cdf9f1dc1443e1da74c8613609d78569497c9dac3172207435fbcef497a214396caa6202b8bbe5f57a15b581499a828d3fe57e14db61814148ab520f7455449ca5443f03ff0562e6032b84580e2a3e63dd15d48ba1b9142a2e05b45d83c97fd0bae2c0d1e0a57f11f8e18f3f34afec0b6ca9f430167be3 
 Sequence: ffffffff
+..............
 PrevHash: 3d52833725fd53cbff6d4da2a5399ae3ed8ce432b4adc931997f9de3a9adf 
 Prev Tx out index: 72 
 Txin Script Len: 139 
@@ -807,6 +864,7 @@ Outputs count: 2
 Value (satoshis): 700000 (0.007000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9149f9192ce16f281d20826f19279288b85fdfe3388ac
+..............
 Value (satoshis): 7000000 (0.070000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914163309edea350f42ca7a76fb9ede1b485d657988ac
@@ -828,6 +886,7 @@ Outputs count: 2
 Value (satoshis): 108000000 (1.080000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914d1fe5cd78ddb4cb63e2ee99e90ab9dd9f6aeae488ac
+..............
 Value (satoshis): 128000000 (1.280000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91424e5c26cbcbcd8442e8f4142efdef6f255ecdf888ac
@@ -844,26 +903,31 @@ Prev Tx out index: 0
 Txin Script Len: 139 
 scriptSig: 4830452210eae127e0318d15c5c117ec9eccf69c58db52c9a12d5bc422e295e60db255fdf2205b3b441d312f279eadb9dc367b17a2055f21daac8fdda955f3baad2b3c85231414ac2a25b430f327d8eb135e3d7a79b17e2474309ffebff951ccd8f44ec2d23c671ccb68c79b3eeff7feb7d5032d52275704724febffbabeedaf3d30645144 
 Sequence: ffffffff
+..............
 PrevHash: 166bbd5394a6d62f6d6aa7287245f97feac29459113a2a62a193c4cce25d8 
 Prev Tx out index: 1 
 Txin Script Len: 139 
 scriptSig: 4830452210f4bca564d64568eae8cf4b96e3bbbd8854947aea8cba4c95f0fa94779bf4d7220173647f795a8c33f793af8ee706fac871373cbb860506456bb4f6740bc5181414d472dece418ae9144842923c593587fc45bceb833fba20d924b631c6442e3f9eb41c27d0119bd16448ac4450e5151f6cfa276e7eb06776aa5e82efe55f0aa 
 Sequence: ffffffff
+..............
 PrevHash: b89cc73db66633b1eb264f3c213fbfd6b3a6d70d5f4b93e2f4e8a2f532789 
 Prev Tx out index: 1 
 Txin Script Len: 140 
 scriptSig: 4930462210cf819293a0c0945c390adb0eca4d3b5bab7e4bafce318caa088d51467d871d92210c51c4d8a85b423dc5171a144b8ac198472417af59231ad5a69a61b9f9605791414aae6689d32b17beb6d86d19f6cb461e5bf5088137cf497b7b8432aee8dc020aafc7d6c13be7226b47ce5b2891bf8e82c71c7cb683e46ca6feadde6bdf92ae8 
 Sequence: ffffffff
+..............
 PrevHash: cce199163f42f36898bb41c8372ef8da1aecd583d61232aac7e3364a34c66d 
 Prev Tx out index: 37 
 Txin Script Len: 139 
 scriptSig: 4830452210d56ef2367c494c16ea74fb68af0d187d5f6e97773a1c3b025bab8e158d5782207419b3392b53ae296ae291af7b5f2ac6e760a01c68b7761a395bd7751cda21914141018b7d4ba445048bf12c5414bf2f3efc24ccee42111f6e1fc7ed27ecfdc2dd20bba7ada1401582b8b2c2d3e765866a7c35810263e293d8d56fc3977762b6f 
 Sequence: ffffffff
+..............
 PrevHash: 87b75a6698d3ae4850c8ee1a7b1da728474a614685a938bcbae691495d4073 
 Prev Tx out index: 21 
 Txin Script Len: 139 
 scriptSig: 4830452210f34da8265e298a7e73d63bbbc876d36e55cf0627e389cb46051fd86e58d14d52203aa0836b32273e7ccd85c52e7d7e424654143c2e7c036bf35f6958fdbbee14141018b7d4ba445048bf12c5414bf2f3efc24ccee42111f6e1fc7ed27ecfdc2dd20bba7ada1401582b8b2c2d3e765866a7c35810263e293d8d56fc3977762b6f 
 Sequence: ffffffff
+..............
 PrevHash: f89dcf13f2b3211b13c7cf1b97f92c82331dd7962d819da4a164ef81598be3f 
 Prev Tx out index: 1 
 Txin Script Len: 139 
@@ -874,6 +938,7 @@ Outputs count: 2
 Value (satoshis): 1527432 (0.015274 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914415d4cfaa3e127e463f9b3947f9c3cd59d29b088ac
+..............
 Value (satoshis): 598000000 (5.980000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91422df7c6d64936fc979c77ae3f276a690d8fe62f688ac
@@ -895,6 +960,7 @@ Outputs count: 2
 Value (satoshis): 4559001000 (45.590010 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9145da4a54e4142725dd2f241e172554419dd5683988ac
+..............
 Value (satoshis): 1000000 (0.010000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914cbcb9e17287effc0fe90993d30a158b3feba2df188ac
@@ -916,6 +982,7 @@ Outputs count: 2
 Value (satoshis): 3954243482 (39.542435 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914d3bc565c9e4ddea0f55bb5c2183a5ca589a342c588ac
+..............
 Value (satoshis): 27856195 (0.278562 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914906f258cc7bb71637e1104431d99e63be24b1ba88ac
@@ -937,6 +1004,7 @@ Outputs count: 2
 Value (satoshis): 3022052080 (30.220521 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914c15be93f5a536d25ee620a56cc4382267e8ed8d88ac
+..............
 Value (satoshis): 20966032 (0.209660 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9142c279f4b433ae1ddd07dd86dd1bb6b297d8a6188ac
@@ -958,6 +1026,7 @@ Outputs count: 2
 Value (satoshis): 2971824864 (29.718249 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9147f47e1c840f2b34130c9b5f66c683823821edf088ac
+..............
 Value (satoshis): 24397509 (0.243975 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9141fe12b59b3c9d3c574423cc7372fb5328f3e43e88ac
@@ -979,6 +1048,7 @@ Outputs count: 2
 Value (satoshis): 1847981679 (18.479817 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914936d686255da3bfaea5ae85a7f1b64e347ce6988ac
+..............
 Value (satoshis): 168703326 (1.687033 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9148940ca1dbb9296a359399997bb3bf4798b1d5d188ac
@@ -1000,6 +1070,7 @@ Outputs count: 2
 Value (satoshis): 1559866770 (15.598668 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914937decbb16b130fc95167a1e91e1536513ec3cb88ac
+..............
 Value (satoshis): 100000000 (1.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914afc36c1fc44431d23e87c98bbd95a7e43e79e56688ac
@@ -1016,31 +1087,37 @@ Prev Tx out index: 0
 Txin Script Len: 139 
 scriptSig: 48304522109781973e70cd1045b5291679bb2fe41f2c90ac64169d8d8f5b9f013eec4532207276d595d56182e25cd8a346b76733485ed2b118b5e23d3086cfac914ff75ce51414edd1426340c182debcffb4c473da7652151579f89f1ea21d427167720547297b87b67e828284182aa1adfa7b726875b19570d2a13caf3f3db03b4c734ea 
 Sequence: ffffffff
+..............
 PrevHash: 2470d7fa9de1a4c944c6a0742e4b274491a3bc2279cfe226c61b412de6db2766 
 Prev Tx out index: 1 
 Txin Script Len: 139 
 scriptSig: 4830452210d1ba61f783301ff6f63ac850f1f787428b942d5ca932107e465663f44ab5cbdc2206d459fc54dd193a14532eb59e2ec415af8579cda277b67b67a42d32edea7a5e1414f3cf912e6be96369441eeacf2e90c049b8206c426f1feb1a51e181c6505cb8106febe1f44d7bff420c2e369df114e6afbc32361cb6f2c2d87bc6d1fb90 
 Sequence: ffffffff
+..............
 PrevHash: ef836966d9e21db72342aeb16eb4f39e55c1615c5f85eee6244db4a064fcc5 
 Prev Tx out index: 0 
 Txin Script Len: 139 
 scriptSig: 4830452210be71db8d78e3da18897f25052c48e79d1c4bc2dcae313fa6b45dd63918cfa2201a662c861f2105c5ebeb29ddf9c7a9d92b276eb9e235c689fc884adf4c41414874b8b216a67e17135dd90c55290a6e8389644ca143224ed4a23568ee20cbf74e3a26401ba4ce6726b59c23ef7ad3255af8b6d2f66a93ad8afbf534a2c4a93 
 Sequence: ffffffff
+..............
 PrevHash: d322619edd81444643bb228df45c4ed3a4cdaa73b29bd3ec85f9ed0c4de2b85 
 Prev Tx out index: 1 
 Txin Script Len: 138 
 scriptSig: 473044220e7675588ebdde5565c27bdde45bdb12de74d641a6ab840a421844f966512205f1880c1175555625d75622ac330929bd1585837836b71f3d938d246da21414a24ea25fe3e775486441a71c1abad957a5b2196991bf6a8e17b57bd543866cd2c5e6967944291b289b6ff12e6c14c7353e378873a6abc667e927a5a4d1e9b 
 Sequence: ffffffff
+..............
 PrevHash: 954f5d9f1a0c27827d6f25104757725e06a1d33245d75e6b291c79f47a30 
 Prev Tx out index: 0 
 Txin Script Len: 138 
 scriptSig: 4730442205d7fa9e954841fad5e656f37657f9ce8db17b6ccad04c64954a17cab540469f22025856bd4a852579171ea6f6d6fc3aad5495b97e633a048516bec86e32c5e39c21414b95f92fd3e29957b4bd7ce83f7f933dadcade32bbce37f53425448884336bce42cbb876bc7b95f93c9a74eb945cf565b8d82cb2eada0e4d767545812e 
 Sequence: ffffffff
+..............
 PrevHash: 057644611069f2a3e984ddf465df8a3fbb058d5acbcb2f72b6a840c7866 
 Prev Tx out index: 1 
 Txin Script Len: 139 
 scriptSig: 48304522109de9fcb678904b5413799b973391e3e0c850ed71c838d3bd559825ad8ee53137220eb29e7bbd3d11ace663317cc7554423e1c59c19bf7af410b43766ee2064a831414e9528b9a4c1e4365cd32bc7d91a2138f1db4ff4f87ed9567713be8b9e7763ab2399d6382aba09da15bbde5dbf87d6831324b8db9744a9d2eaaac4ee1aebb 
 Sequence: ffffffff
+..............
 PrevHash: 85cadea78c7dbeb5798c684df0124cba8aee2843cf8a6585cb80315de1e9d547 
 Prev Tx out index: 1 
 Txin Script Len: 140 
@@ -1051,6 +1128,7 @@ Outputs count: 2
 Value (satoshis): 1009149 (0.010091 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914c9ee4a5f842b45c36a1a386d8ffb2da0e16d14688ac
+..............
 Value (satoshis): 1783000000 (17.830000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914194f95ae88904578f9802d38f85234a03f2335a88ac
@@ -1067,16 +1145,19 @@ Prev Tx out index: 2
 Txin Script Len: 140 
 scriptSig: 4930462210ffff4c28787d62e54a7521fb5d6a26c9c1cb2e4c4749d9ff9a74b87eb5ea442210f580f11cfd05f4dc95d55d4519118365301330d77eb1f6c56b639f2b2f70c01414897dd362ed24ddcf5eb567562ee771ec23234205b729f47941c7ee67dabf2ce4794dadec845e288413f7ddb6293c4f5c4c2a9c9352d1d34b862e3e5012db 
 Sequence: ffffffff
+..............
 PrevHash: 626fcb7d7dcc86c2e59d7f48fc68124ff1568ff22c8a918b8f6651688fa459bb 
 Prev Tx out index: 1 
 Txin Script Len: 139 
 scriptSig: 483045221083663a2bfd2992b01cfbb1268e317a6894a71a39f9deab7521514f76482202b155ba1bf4dae8bf73e060a40b31f6dbb674509a85ad08e27255773265f14143ae91718b3e2c52212558746a3bf7f6df32a024e292d2759f79b6c4d73c8c77a62e4874fd8a97fcddf429a898b49d6e5cc4f1a583d0fc4c7f744ba9403d82 
 Sequence: ffffffff
+..............
 PrevHash: f367c88e4be5736ba8e4575c683a68ada02145c1b28cc1f5866164fa52ec9f 
 Prev Tx out index: 1 
 Txin Script Len: 138 
 scriptSig: 47304422023bd6fdc8b355a6ac05cd69f67451488455cc65a8f9fb92176beea30997cecfd2206a809a346339f715b766e01a2d8e907c587a644ab3edb9cca1d6273c5869ff21414c058fd1c8c72f3a874cc8252ba6bf4e55716e29f4f2fdceb4eb2e3d3f4c1bbde297f1dc96e42b66d8815729d0a35c6fa4c312c8ebf0a98e32aafe422e5eda 
 Sequence: ffffffff
+..............
 PrevHash: 3b71c40fa425664e48d3af3e55da82574ca9bafe5bdc34d29a9ff9804e4282 
 Prev Tx out index: 0 
 Txin Script Len: 139 
@@ -1087,6 +1168,7 @@ Outputs count: 2
 Value (satoshis): 1000000 (0.010000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91470309bf594ef4090ae154fc731e9ef93ef6cb8488ac
+..............
 Value (satoshis): 500000000 (5.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91455aada425ae415c7ceb42f590c17f59c1ef6088ac
@@ -1108,6 +1190,7 @@ Outputs count: 2
 Value (satoshis): 1152676600 (11.526766 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91417ca215634db3755414dd4c899648194796111a88ac
+..............
 Value (satoshis): 91235500 (0.912355 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914d2223ec9a33c10c2386ff11289e6baf86a436bee88ac
@@ -1129,6 +1212,7 @@ Outputs count: 2
 Value (satoshis): 537845382 (5.378454 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914ad1d831bad3eb131ee654e3e4d4db192bf2ffda88ac
+..............
 Value (satoshis): 114896355 (1.148964 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9141596d6e0934a5829db4baa71101c71fe601bd01b88ac
@@ -1150,6 +1234,7 @@ Outputs count: 2
 Value (satoshis): 17368312 (0.173683 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914aa5faa1f21a876259cdba48f2ed4e31dcf1988ac
+..............
 Value (satoshis): 15700295 (0.157003 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914184ec0b07f39de6c22b42a3f3f7c6d58b8a188ac
@@ -1171,6 +1256,7 @@ Outputs count: 2
 Value (satoshis): 337650000 (3.376500 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91453994b902ea23cc71efb49e8958435d29ece7c288ac
+..............
 Value (satoshis): 32000000 (0.320000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9141d979e39786b837fe4ce31f14be8dca6563ba7388ac
@@ -1192,6 +1278,7 @@ Outputs count: 2
 Value (satoshis): 333450000 (3.334500 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9148ab9f5247a578b6528f65856b3c1f64b4a0107088ac
+..............
 Value (satoshis): 100000 (0.001000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91421a3ea31d98ddff44e3ca4559e1b56b7543b71a88ac
@@ -1213,6 +1300,7 @@ Outputs count: 2
 Value (satoshis): 7930000 (0.079300 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914451ead5bbf8e7139e2712940a08ebcb4466ab88ac
+..............
 Value (satoshis): 12000000 (0.120000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914bc969b910f6891fc0eb5cdbd7dad56f40b6ea7d88ac
@@ -1234,6 +1322,7 @@ Outputs count: 2
 Value (satoshis): 9720000 (0.097200 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9146ccc9bc41233f5dd50a4d47931a0ec98d24e35e488ac
+..............
 Value (satoshis): 10000000 (0.100000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914bc969b910f6891fc0eb5cdbd7dad56f40b6ea7d88ac
@@ -1250,6 +1339,7 @@ Prev Tx out index: 1
 Txin Script Len: 140 
 scriptSig: 4930462210fbce15518f6d9b95abadeb9c4a1a6b8c7f926d98c8c797ef9da290aedc7522109b5ebd26bfa80d09878ae283a628ac2f993a5e2cff117165dfaac52f529bec141458527310c3ef6a134a0c35cd04487c65892c2c52dca41465384576e4dec4558a3ec643c128ea3835b302f8e23d7634972dd28adfe44d8a192393816197 
 Sequence: ffffffff
+..............
 PrevHash: e868efe6c6a12af57603713da548fcc44d1a8fbd2fbfe877b70f08ba77f6da2 
 Prev Tx out index: 1 
 Txin Script Len: 140 
@@ -1260,6 +1350,7 @@ Outputs count: 2
 Value (satoshis): 2950000 (0.029500 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914ba9264e163ed66d06951e51dbf1e76f195b2971188ac
+..............
 Value (satoshis): 5000000 (0.050000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9144ae784b9f6b51323be7eebf06b213ac42acca76088ac
@@ -1276,11 +1367,13 @@ Prev Tx out index: 0
 Txin Script Len: 139 
 scriptSig: 48304522050cc3437bc7c2e328c715cbdaf97aedc58e1f4aaf4486c9384d11ddc10ae77632210c7632bcae74b71fe88a1f6d6f3587bbb236e777f662d7c339b567f9146aa1df1414662aefb0c33ed52a2508aa53a7bddfa9ec0b9f41da48b558284d2a666cb2b2429904cbb233299b8b87e703c26691cd9d69c55658dadba7aceee54712d93deb 
 Sequence: ffffffff
+..............
 PrevHash: 84734b6a727e7ea8deb7c3bf854685e67315bf1a1bb547e609a28cc502f1670 
 Prev Tx out index: 0 
 Txin Script Len: 139 
 scriptSig: 4830452210d2f7a28fe818a668a16986b4d9d5145fa3c21393a6231abe40e41be68c5993da220266128f67ba6b1f4751781e7668feb6f01887ecc34d1e3dc684ccec99411414645943d7b2436f2ba2e988fa1c1bee2c4d66f5b409bdec13f3c2ba32a95d56c72f40dbf6407cc64b3d2b47256970668686b6fe26eba19d86bf53dfef0822e 
 Sequence: ffffffff
+..............
 PrevHash: 3e1d6d4eb67277209c46c597a1a78dbf69fbd47d522c8c62eb45e6252bbe61 
 Prev Tx out index: 1 
 Txin Script Len: 139 
@@ -1291,6 +1384,7 @@ Outputs count: 2
 Value (satoshis): 1550000 (0.015500 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9148da955e1e95b34c2393f4095a229baaf333c559988ac
+..............
 Value (satoshis): 14000000 (0.140000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9145d492bc4aad724508fe11d9b7255ce9963aecb7388ac
@@ -1307,6 +1401,7 @@ Prev Tx out index: 0
 Txin Script Len: 140 
 scriptSig: 4930462210b6a29b789beb7165c222157b845f7fd899d82e812a4f92e3da47c664354569752210ba56a3a9871154b63088661704272f2aa64c09593a3d058d1f9ebb45ab59b1414703199be39d11cdcd0ca5a5b61fb73142c239930b618e06e7352239b648c08f4a26fe8195b12f1962e78b45c39969eca1223b765a9913b89754a5fafc2951e 
 Sequence: ffffffff
+..............
 PrevHash: 92504b142f78af37afdacc94eaa23bd9a34341555926a1bb609a61916a5bcf 
 Prev Tx out index: 1 
 Txin Script Len: 140 
@@ -1317,6 +1412,7 @@ Outputs count: 2
 Value (satoshis): 1640000 (0.016400 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914c5cfb12698107a35f1a9e85598d49a2619a7d5788ac
+..............
 Value (satoshis): 360000 (0.003600 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914f9af4257fd2186dd183ff0efd7156f09f7c41c188ac
@@ -1333,11 +1429,13 @@ Prev Tx out index: 0
 Txin Script Len: 140 
 scriptSig: 4930462210fd5b5f55f2faedaa252fe726a93e365e2fdf6f439d5021b0dfeb3597dc6162210b162477b525ced3b3c7381ccf3835c68e3b41b4d695512b290cfc87dfb3ca1414cbfffbbc5ea43a3e6171f5d8786689dd4cb2668a786f0cfa7127e232608c38da25a7aa4a88871a875c1928dec73277979fb87ffaaa01df75b7b3f97b81 
 Sequence: ffffffff
+..............
 PrevHash: b568dbc211c91bc88eeae1d775b790bfa98e726bc507c25bee8d54a609fd9c2 
 Prev Tx out index: 0 
 Txin Script Len: 140 
 scriptSig: 4930462210f37b661e81efd9723476734fdba47f23862f8017d13d6b23aa461bc3963de1e221092345443617db489c6745871b1d47cf5a86e922688d88b8e5b69bfa3806ebe1414142dda5ced8e134fb6c22f4e3cb6d25af49ca980acf67591fa1d2668badf5d55bfc533de95996f431d4486f75d88d21248c79fbe4d7cb6246946851ec3ab54 
 Sequence: ffffffff
+..............
 PrevHash: 29606a4cb72eb5d5735ba22a8cdc9bfcad40a6f444219ca4a51f3f97fe392925 
 Prev Tx out index: 1 
 Txin Script Len: 139 
@@ -1348,6 +1446,7 @@ Outputs count: 2
 Value (satoshis): 1850000 (0.018500 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9148bad2f98c043e2145a5b54eb1f96a2487c302b88ac
+..............
 Value (satoshis): 16000000 (0.160000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9145f3b2774b4971af9179fcfd2e0e89fab614d6688ac
@@ -1369,6 +1468,7 @@ Outputs count: 2
 Value (satoshis): 15150000 (0.151500 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9146034ae2ed51b22389fb19d24f94accb7ccbf3b7388ac
+..............
 Value (satoshis): 100000 (0.001000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914533136b4a98ae99ab2bb5af6bfed57e7346dbc88ac
@@ -1390,6 +1490,7 @@ Outputs count: 2
 Value (satoshis): 5873300 (0.058733 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9149a4d9824f8bbcae1ccd70bc33b373c2808e64888ac
+..............
 Value (satoshis): 5391757 (0.053918 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914a45da01c724d6e4be16810143c3257cc306e467e88ac
@@ -1411,354 +1512,471 @@ Outputs count: 118
 Value (satoshis): 34 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91486b688b78b6fab8b88f682ccd652e487b6f54288ac
+..............
 Value (satoshis): 19 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91486b1ae4156abdce96d69ccf3d7de3c68d08ea288ac
+..............
 Value (satoshis): 2 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9148699fbfac64178d6ed22857734cf53955dcae588ac
+..............
 Value (satoshis): 1 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91486967b2b5dbb4e261e7281edc935a24b0cc59f988ac
+..............
 Value (satoshis): 45 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914867bc23b0ea3f38ea13ba727fda4b5b917d1c88ac
+..............
 Value (satoshis): 12 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914866e3fcd6f4c38073da1a644191086dce71b5b88ac
+..............
 Value (satoshis): 40 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91486613ffc2e3e6c6c1aff7d443804f6a9aa6384788ac
+..............
 Value (satoshis): 22 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914865540f84aad8c8d6176f9454b17c4b7e581688ac
+..............
 Value (satoshis): 27 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914864b6eb4c883c40f1562d1e739898480715ace88ac
+..............
 Value (satoshis): 22 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9148644b59a7e1e17ccbb63da48ffc462e1dc768da88ac
+..............
 Value (satoshis): 14 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914863cf68f3c60cbeefdaadf99232f32af9256d188ac
+..............
 Value (satoshis): 10 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9148638c41296fb7862c4e846e71c346177c6d8488ac
+..............
 Value (satoshis): 17 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91486347891885fad0396775e0dbbaf1e984fd01388ac
+..............
 Value (satoshis): 14 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914862ca8e3cf8fc21c37d17c9fc69c437dc3e92e688ac
+..............
 Value (satoshis): 3 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914862c944ca23a78437c9dd7a8d56e1f8a4f9b7088ac
+..............
 Value (satoshis): 36 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914862759814efa959ddb7710618368d5b6418688ac
+..............
 Value (satoshis): 22 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9148615c3e484b4e36c3674b97a55d2c8bbc7959c88ac
+..............
 Value (satoshis): 9 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9148608b2fb050a856f6ef6c40e1a2855f3fd7b3288ac
+..............
 Value (satoshis): 42 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91485ecf8fdc13311bf13d0633aafcb92fed6b388ac
+..............
 Value (satoshis): 8 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91485e236d814b7d4015df7052423c7bcafaeefb5988ac
+..............
 Value (satoshis): 21 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91485de8d57f3de87308570d9d0745ef87820907888ac
+..............
 Value (satoshis): 25 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91485dd5b3abe49bc673aab795bc36aa76bfc91f88ac
+..............
 Value (satoshis): 34 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91485d8b378dacfca2be637c560b046a7945d822388ac
+..............
 Value (satoshis): 6 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91485c2032af04a7ef32aad71af8fcdbb88e4419188ac
+..............
 Value (satoshis): 27 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91485b12a69356d52893e8c6c3fa38735d9dda56e88ac
+..............
 Value (satoshis): 33 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91485a65b1c6d3f6c9f3a94cc970e9a252be5f85a688ac
+..............
 Value (satoshis): 5 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914859a6c140efaa175b85d93a85a5623ada3de2f188ac
+..............
 Value (satoshis): 16 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91485986d8912b5b1eee228dc57f463d3edd208feb88ac
+..............
 Value (satoshis): 24 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9148576658c9fa983456c14fcc865669c2442dd088ac
+..............
 Value (satoshis): 9 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9148563844ba7dddcd0dba6355c280f390794e5e88ac
+..............
 Value (satoshis): 6 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914855aeece9a450aeceae5531b493b87d375a3088ac
+..............
 Value (satoshis): 29 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9148553d83fbbffef2dcf8c813a8daa0a7564153e388ac
+..............
 Value (satoshis): 6 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91485532e71da9b65aaa6d47afd07c80b6573562b388ac
+..............
 Value (satoshis): 44 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9148545966389e8b44b7324f1fbbf534e2a9b8c8288ac
+..............
 Value (satoshis): 17 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914853ccbcb13a78823f40183e0e73ebd9a25636988ac
+..............
 Value (satoshis): 7 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91485357e2f3185a2c3d3d754f8f7d63895579db588ac
+..............
 Value (satoshis): 29 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9148532b108d2ba391f24fbe1193c1ad6a09419de88ac
+..............
 Value (satoshis): 6 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9148527009bb926b43c61281ee49c66b859ca83f888ac
+..............
 Value (satoshis): 35 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91485234f33c3aa242e66132f5d361ecb94dba5d88ac
+..............
 Value (satoshis): 43 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9148522877ea5433671532eb0985ab1836a762388ac
+..............
 Value (satoshis): 24 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914851ed201a2740aea296318d3213bae7d67a49688ac
+..............
 Value (satoshis): 4 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914851a9dfacf5f10334dacaecf3b3611ccffed3688ac
+..............
 Value (satoshis): 7 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914851503a474e03bba74f3b621e220a9d7416b88ac
+..............
 Value (satoshis): 9 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914850b5de21268398d9d6196a7ad7b328132989b88ac
+..............
 Value (satoshis): 1 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914850ae34e87b1928554ef9e7993977dafc964cd88ac
+..............
 Value (satoshis): 25 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91485064cfece81e5902f40ac52d3b3cf69da9d788ac
+..............
 Value (satoshis): 8 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91484ee84e972141f6cb72bcbd82a3a51c2388a44a88ac
+..............
 Value (satoshis): 16 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91484ed4bf69bb1996e65ed208426a63611a2e2288ac
+..............
 Value (satoshis): 21 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91484da069e6f0ae1afb3a3b68ee77b1d98cac88ac
+..............
 Value (satoshis): 29 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91484d65ccbed5896ec1e295f8ae5b28149f4de4088ac
+..............
 Value (satoshis): 33 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91484dea3bcb9c68e1094fe2237f8f6eef3a7d9788ac
+..............
 Value (satoshis): 11 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91484bff2c5bf6d289cb4cebdf048ab78712b916288ac
+..............
 Value (satoshis): 9 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91484bea90d1def8bb1d13b56bd9672d015835088ac
+..............
 Value (satoshis): 24 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91484ad1878b88fb5d48e727b7634ded524ec9f88ac
+..............
 Value (satoshis): 13 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91484a4fa7d15950bdabd42f406346a637eaea44e88ac
+..............
 Value (satoshis): 19 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91484ae9ab448948597587e91a655d8ea5cdb5d088ac
+..............
 Value (satoshis): 33 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91484a990803e9949eb43ef412704f587b60a18388ac
+..............
 Value (satoshis): 37 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914849b074b57da51efbf4f1ac3b4cd5d7786b3b788ac
+..............
 Value (satoshis): 21 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9148496db0f8cb2ee629dc8f827e4936e1c8f76de88ac
+..............
 Value (satoshis): 19 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9148488c1a6edba69dabd8cc7e92682701a9bd4d88ac
+..............
 Value (satoshis): 36 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914847cf47fbe7cc6afb1873b64cc149c24525625688ac
+..............
 Value (satoshis): 22 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914846e91a632e5cd445c3193d689b6ee9bb5296c288ac
+..............
 Value (satoshis): 6 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914846ae6c653536922dd3371b37102689b602a7a88ac
+..............
 Value (satoshis): 20 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914845fc47b61753d71c2ce038d8741d739abf37d88ac
+..............
 Value (satoshis): 22 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914845cec37871fb1f48e5d757c1db7ecb76f0569388ac
+..............
 Value (satoshis): 3 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9148454dccac38b29a2e413002e93f6a3fa3ed75d88ac
+..............
 Value (satoshis): 15 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91484511c072c7c66d5743a0779da82e2e61a1ee288ac
+..............
 Value (satoshis): 5 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914844b5264ba3319cab8b338ba1ddda76c7b1888ac
+..............
 Value (satoshis): 28 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914841e063ee55bc3d7ab9d0f69d911dd876d9937088ac
+..............
 Value (satoshis): 6 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91484170ebe9355ca82b1a2d492c4a4b9860831e88ac
+..............
 Value (satoshis): 7 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9148406c3482e2de8925f40894ae3eae6b582e3988ac
+..............
 Value (satoshis): 12 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91484057ef7533bf61b5320982a384aa97451bb688ac
+..............
 Value (satoshis): 24 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91483e69b52f4ae65bd33e35ec8d549ef466fe5f9488ac
+..............
 Value (satoshis): 7 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91483d9ef535a571168d507db917a7584b8ec0b72d88ac
+..............
 Value (satoshis): 38 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91483d66b280ac39e68ab4fb636c648739b606b3488ac
+..............
 Value (satoshis): 22 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91483cdf5397803b458b7843dccc4466ad0b914b688ac
+..............
 Value (satoshis): 21 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91483cbce5cbf01b411f6deeb03ebfa4c9f6701d9b88ac
+..............
 Value (satoshis): 28 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91483cb07b251715e925c6d03e81468698618bc3988ac
+..............
 Value (satoshis): 4 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91483c7ed5aadbabc2368ca48e23c74f52e628f9388ac
+..............
 Value (satoshis): 5 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91483bfc7d6d807178af2b33964427c4b3d5317a9988ac
+..............
 Value (satoshis): 23 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91483bb0134b5a9fe5fd9d847b5b0d8bce5a75bb88ac
+..............
 Value (satoshis): 29 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91483a320db1b91554a67d4b2dc48adc1e5112e88ac
+..............
 Value (satoshis): 30 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91483942f815c9eacc14c7da4240bc2f70807f6e88ac
+..............
 Value (satoshis): 39 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914838bf77385bdeed93cfb8fed1bf58e2465caf88ac
+..............
 Value (satoshis): 39 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914837fbc737c79e4e646bc2435b4f182fccced888ac
+..............
 Value (satoshis): 5 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9148375caac931325373c1166e35b7df56a6f97ae88ac
+..............
 Value (satoshis): 23 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914836bf3474e8d87429cfc2215d811bc79e87ea88ac
+..............
 Value (satoshis): 34 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91483651f569821b91fc51aff0db155883ccfa612088ac
+..............
 Value (satoshis): 24 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9148354fdce8354ba22bbaa17459964652c1740dd88ac
+..............
 Value (satoshis): 24 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914834e323b6ad98e0839c18a55e138b11ee6ac46488ac
+..............
 Value (satoshis): 36 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914833c68bf9d7ed6a311311645cdff781f76d81e88ac
+..............
 Value (satoshis): 4 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914833389597912b823adb642923a02e9844b54b8188ac
+..............
 Value (satoshis): 7 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914833132e3df3b21991dda3573bc9615c544b7cf88ac
+..............
 Value (satoshis): 9 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914830aa939b48d70f6b34f2fbdbe201de3f8288ac
+..............
 Value (satoshis): 31 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9148305f24b813d26d1193b37c81b8361e152fae088ac
+..............
 Value (satoshis): 32 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9148303553cd0ee4244f80803e239f1e626be3288ac
+..............
 Value (satoshis): 4 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91482f3eea64f1dd99cdaf694f95db806720e3af2e88ac
+..............
 Value (satoshis): 28 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91482f3c4173b4bbcfbae6f46ebd3d4d31c248aa5688ac
+..............
 Value (satoshis): 1 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91482ed14ee823ff3c9bb785b8bc4392965562314688ac
+..............
 Value (satoshis): 24 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91482e26af9a3ddee4bc905c52e92ea44acc6e4b288ac
+..............
 Value (satoshis): 31 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91482d31e88d72bd6e2b41e7e5bfc3509a30d95cc188ac
+..............
 Value (satoshis): 37 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91482d3166bb7ecdbd17cf706bbd0b63c806a86f988ac
+..............
 Value (satoshis): 27 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91482d1ba24064348b5d93322283d662427f7be1788ac
+..............
 Value (satoshis): 17 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91482cf2eea9d2a19fb724ec324b362aae2c182efe88ac
+..............
 Value (satoshis): 44 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91482cd1712bb6cc168a9db6d4c1d5f99537ff87c88ac
+..............
 Value (satoshis): 44 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91482ccef05687a47e604b162ac16c84787bb26788ac
+..............
 Value (satoshis): 41 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91482cbf8a4228cadab0152b25e9c21d3cac8158988ac
+..............
 Value (satoshis): 14 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91482b35c04c78179e8a5eb3347b92f5b764873e1388ac
+..............
 Value (satoshis): 25 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91482ad1c91ccac39db83636a9aef81ae54925d22b88ac
+..............
 Value (satoshis): 2 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91482a888114ce2794437f363f2d575a4ceefc1088ac
+..............
 Value (satoshis): 18 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91482a32ca678ac038a52492e9deed5486ea60f26388ac
+..............
 Value (satoshis): 26 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9148294534b9426defc9c7663b8c2b3bdb5b078f588ac
+..............
 Value (satoshis): 7 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914828fecac1a5389483cac8464be9cfda03d8ca388ac
+..............
 Value (satoshis): 34 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914828ca931934a8532dd73f47bdc537aa1f8e633588ac
+..............
 Value (satoshis): 5 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914827fc60d64790e7a4ed59156cf9751e893fe6688ac
+..............
 Value (satoshis): 14 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914827bbd6d0af755dc94a238f2514427a8cf855f88ac
+..............
 Value (satoshis): 14 (0.000000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914827a0a423c7f311cb9f85d0ac518fb230dc6188ac
+..............
 Value (satoshis): 179118910 (1.791189 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914e1bb16a26d591fd766c1b23faec067301afa8a788ac
@@ -1798,6 +2016,7 @@ Outputs count: 2
 Value (satoshis): 3128244350000 (31282.443500 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914dbcc1337f8fb75d77df6d2f892fb3176e1a6ac588ac
+..............
 Value (satoshis): 4018000000 (40.180000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9147360ecaf4c31aace7b4aa9a752d3c3329cbe88188ac
@@ -1819,6 +2038,7 @@ Outputs count: 2
 Value (satoshis): 3125680300000 (31256.803000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914a3d4dc7371aaa616d5da755cd453c574f7a2a1cc88ac
+..............
 Value (satoshis): 2564000000 (25.640000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9142324742419f963a0a6bac2504fef6dba18bc8188ac
@@ -1840,6 +2060,7 @@ Outputs count: 2
 Value (satoshis): 3122716250000 (31227.162500 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91447eea7017e6f07539fec8225d8b1664c0194f488ac
+..............
 Value (satoshis): 2964000000 (29.640000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9146695f34c3506a22b913597f1ffd1f108d3a58588ac
@@ -1861,6 +2082,7 @@ Outputs count: 2
 Value (satoshis): 3119550200000 (31195.502000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914485d44d1803f42d4595e99ef24fced62d3f6ebf88ac
+..............
 Value (satoshis): 3166000000 (31.660000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914e7221805335a07d974a7fc5e39abeb627f78be88ac
@@ -1882,6 +2104,7 @@ Outputs count: 2
 Value (satoshis): 3116733150000 (31167.331500 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914a476fa35ff87c5b81b3febfff92ed2b4514a788ac
+..............
 Value (satoshis): 2817000000 (28.170000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914725f38f4f1dbc9d1a1964377cab3de2dc2617f88ac
@@ -1903,6 +2126,7 @@ Outputs count: 2
 Value (satoshis): 3112292100000 (31122.921000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914cee3247df341232a73ce7a9cf9c96295d1edc7d88ac
+..............
 Value (satoshis): 4441000000 (44.410000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a9146fd4ed29537ec09e9a286ca6c0ec56ee63723d588ac
@@ -1924,6 +2148,7 @@ Outputs count: 2
 Value (satoshis): 3107672050000 (31076.720500 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91451c52b64916baa95772ee092706aae4bbacf4388ac
+..............
 Value (satoshis): 4620000000 (46.200000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a91487586a1741412a4ea8359a6545aeda6bbaf7b88ac
@@ -1945,6 +2170,7 @@ Outputs count: 2
 Value (satoshis): 3102975000000 (31029.750000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914f9d34fa55660223533b8cb1d7278491f14e269f88ac
+..............
 Value (satoshis): 4697000000 (46.970000 btc)
 Txout Script Len: 25
 scriptPubKey: 76a914d632765f2176ae554316f78781e4fe5e5c4c97b88ac

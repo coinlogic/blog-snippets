@@ -150,9 +150,9 @@ class Transaction(object):
 
    def __str__(self):
       s = 'Inputs count: %d\n---Inputs---\n%s\nOutputs count: %d\n---Outputs---\n%s\nLock_time:%8x' % (self.in_cnt,
-               '\n'.join(str(i) for i in self.inputs),
+               '\n..............\n'.join(str(i) for i in self.inputs),
                self.out_cnt,
-               '\n'.join(str(o) for o in self.outputs),
+               '\n..............\n'.join(str(o) for o in self.outputs),
                self.lock_time)
       return s
 
@@ -180,7 +180,7 @@ class Block(object):
          self.blockheader = BlockHeader()
          self.blockheader.parse(bf)
          print 'Block header:\t%s' % self.blockheader
-         
+
          self.transaction_cnt = read_varint(bf)
          print 'Transactions: \t%d' % self.transaction_cnt
 
