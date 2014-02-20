@@ -73,6 +73,90 @@ class BlockHeader(object):
    def __repr__(self):
       return __str__(self)
 
+      
+class Tx_Input(object):
+   def __init__(self):
+      super(Tx_Input, self).__init__()
+      
+   def parse(self, stream):
+      self.prevhash = read_hash32(stream)
+      self.prevtx_out_idx = read_uint4(stream)
+      self.txin_script_len = read_varint(stream)
+      # TODO in later modules we will convert scriptSig to its own class
+      self.scriptSig = stream.read(self.txin_script_len)
+      self.sequence_no = read_uint4(stream)
+
+   def __str__(self):
+      return 'PrevHash: %s \nPrev Tx out index: %d \nTxin Script Len: %d \nscriptSig: %s \nSequence: %8x' % \
+               (get_hexstring(self.prevhash),
+                self.prevtx_out_idx,
+                self.txin_script_len,
+                get_hexstring(self.scriptSig),
+                self.sequence_no)
+
+   def __repr__(self):
+      return __str__(self)
+
+      
+class Tx_Output(object):
+   def __init__(self):
+      super(Tx_Output, self).__init__()
+      pass
+   
+   def parse(self, stream):
+      self.value = read_uint8(stream)
+      self.txout_script_len = read_varint(stream)
+      self.scriptPubKey = stream.read(self.txout_script_len)
+
+   def __str__(self):
+      return 'Value (satoshis): %d (%f btc)\nTxout Script Len: %d\nscriptPubKey: %s' %\
+               (self.value, (1.0*self.value)/100000000.00, 
+                self.txout_script_len, 
+                get_hexstring(self.scriptPubKey))
+
+   def __repr__(self):
+      return __str__(self)
+
+
+class Transaction(object):
+   """Holds one Transaction as part of a block"""
+   def __init__(self):
+      super(Transaction, self).__init__()
+      self.version = None
+      self.in_cnt = None
+      self.inputs = None
+      self.out_cnt = None
+      self.outputs = None
+      self.lock_time = None
+
+   def parse(self,stream):
+      #TODO: error checking
+      self.version = read_uint4(stream)
+      self.in_cnt = read_varint(stream)
+      self.inputs = []
+      if self.in_cnt > 0:
+         for i in range(0, self.in_cnt):
+            input = Tx_Input()
+            input.parse(stream)
+            self.inputs.append(input)
+      self.out_cnt = read_varint(stream)
+      self.outputs = []
+      if self.out_cnt > 0:
+         for i in range(0, self.out_cnt):
+            output = Tx_Output()
+            output.parse(stream)
+            self.outputs.append(output)
+      self.lock_time = read_uint4(stream)
+
+   def __str__(self):
+      s = 'Inputs count: %d\n---Inputs---\n%s\nOutputs count: %d\n---Outputs---\n%s\nLock_time:%8x' % (self.in_cnt,
+               '\n'.join(str(i) for i in self.inputs),
+               self.out_cnt,
+               '\n'.join(str(o) for o in self.outputs),
+               self.lock_time)
+      return s
+
+
 class Block(object):
    """A block to be parsed from file"""
    def __init__(self):
@@ -99,6 +183,19 @@ class Block(object):
          
          self.transaction_cnt = read_varint(bf)
          print 'Transactions: \t%d' % self.transaction_cnt
+
+         self.transactions = []
+
+         print 'List of transactions'
+         for i in range(0, self.transaction_cnt):
+            tx = Transaction()
+            tx.parse(bf)
+            self.transactions.append(tx)
+            print '='*50
+            print ' TX NUMBER: %d' % (i+1)
+            print '='*50
+            print tx
+            print '\n'
 
 
 
